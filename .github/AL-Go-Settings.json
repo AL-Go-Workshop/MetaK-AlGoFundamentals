@@ -8,5 +8,8 @@
       "patterns": "FreddyKristiansen.App1.8c8eec06-bf1c-4ab6-b375-a0a6cf31a6bd"
     }
   ],
-  "generateDependencyArtifact": true
+  "generateDependencyArtifact": true,
+    "DeployToCustom": {
+    "EnvironmentType": "Onprem"
+  }
 }
