@@ -12,6 +12,7 @@
   "logo": "",
   "dependencies": [
     {
+        "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
           "name":  "Common",
       "publisher":  "Freddy Kristiansen",
       "version":  "1.0.0.0"
