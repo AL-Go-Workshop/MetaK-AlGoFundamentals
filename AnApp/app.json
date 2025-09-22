@@ -11,6 +11,17 @@
   "url": "",
   "logo": "",
   "dependencies": [
+    {
+          "name":  "Common",
+      "publisher":  "Freddy Kristiansen",
+      "version":  "1.0.0.0"
+    },
+    {
+      "id":  "6ca8b33e-2681-4bea-9269-4b8bbd852337",
+      "name":  "Licensing",
+      "publisher":  "Freddy Kristiansen",
+      "version":  "1.0.0.0"
+    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
